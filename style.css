@@ -195,24 +195,19 @@ span{
 }
 @keyframes words{
     0%, 20%{
-        content: "Web Developer";
+        content: "AI/ML enthusiast";
     }
     21%, 40%{
-        content: "Developer";
+        content: "Exploring Astronomy and Astrophysics";
     }
     41%, 60%{
-        content: "Web Designer";
+        content: "Tech and Cosmos Enthusiast";
     }
     61%, 80%{
-        content: "Youtuber";
+        content: "Learning AI Step by Step";
     }
     81%, 100%{
-        content: "Script Writer";
-    }
-}
-@media (max-width: 1000px){
-    .home{
-        gap: 4rem;
+        content: "Problem Solver";
     }
 }
 @media(max-width:995px){
@@ -230,4 +225,5 @@ span{
         width: 70vw;
         margin-top: 4rem;
     }
+
 }
