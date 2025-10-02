@@ -195,19 +195,19 @@ span{
 }
 @keyframes words{
     0%, 20%{
-        content: "AI/ML enthusiast";
+        content: "an AI/ML enthusiast";
     }
     21%, 40%{
         content: "Exploring Astronomy and Astrophysics";
     }
     41%, 60%{
-        content: "Tech and Cosmos Enthusiast";
+        content: "a Tech and Cosmos Enthusiast";
     }
     61%, 80%{
         content: "Learning AI Step by Step";
     }
     81%, 100%{
-        content: "Problem Solver";
+        content: "a Problem Solver";
     }
 }
 @media(max-width:995px){
@@ -227,3 +227,4 @@ span{
     }
 
 }
+
